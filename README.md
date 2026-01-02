@@ -1,4 +1,4 @@
 # FirstGit
 This is my Git repository.
 <br><br>
-Author - Girish R. Shetiya
+Author - Girish Rajendra Shetiya
